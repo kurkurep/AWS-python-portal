@@ -1,0 +1,4 @@
+python==2.7.26
+Flask==1.0.2
+Boto==2.39.0
+Botocore==1.12.0
