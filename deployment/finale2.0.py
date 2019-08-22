@@ -86,4 +86,4 @@ if __name__ == '__main__':
   os.system('cls')
   in_id=""
   region=""
-  app.run("127.0.0.2")
+  app.run()
